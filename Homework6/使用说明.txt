@@ -1,0 +1,1 @@
+运行glvu.sln文件，用Release模式进行编译。
